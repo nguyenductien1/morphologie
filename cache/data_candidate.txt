@@ -1,0 +1,1309 @@
+<code>
+// DUMP pour le terme 'candidate' (eid=224004)
+
+<def>
+</def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;6;'n_flpot'
+nt;8;'n_chunk'
+nt;9;'n_question'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;200;'n_context'
+nt;444;'n_link'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;224004;'candidate';1;102
+e;101689;'être animé';1;50
+e;68439;'individu';1;6030
+e;116477;'personne';1;10218
+e;225916;'personne&gt;24956';1;708;'personne&gt;être humain'
+e;234036;'être vivant&gt;123933';1;258;'être vivant&gt;entité'
+e;244620;'être humain&gt;74860';1;146;'être humain&gt;homme'
+e;24956;'être humain';1;814
+e;220013;'femme&gt;4333487';1;758;'femme&gt;être humain de sexe féminin'
+e;61490;'femme';1;30496
+e;240940;'Lutte Ouvrière';1;4
+e;9111691;'en:accurate (qualifier)';1;0
+e;6876520;'en:adversity';1;0
+e;6876772;'en:aliquot';1;0
+e;6876774;'en:amenable';1;0
+e;6876526;'en:apoptotic index';1;0
+e;9111692;'en:arousal';1;0
+e;9111693;'en:auditory pitch';1;0
+e;6876532;'en:biological profile';1;0
+e;9111694;'en:biological radiation resistance';1;0
+e;6876780;'en:blur';1;0
+e;6876536;'en:capability';1;0
+e;6876538;'en:case sensitive';1;0
+e;6876540;'en:cell cycle profile';1;0
+e;6876542;'en:chance';1;0
+e;6876544;'en:chemical properties';1;0
+e;6876545;'en:class';1;0
+e;6876792;'en:clockwise';1;0
+e;6876549;'en:closure';1;0
+e;9111715;'en:competence';1;0
+e;6876553;'en:computer configuration';1;0
+e;6876555;'en:condition attribute';1;0
+e;9064828;'en:conflict (psychology)';1;0
+e;6876557;'en:conjunction';1;0
+e;6876559;'en:consensus';1;0
+e;6876561;'en:conservation';1;0
+e;6876563;'en:contamination';1;0
+e;6876565;'en:copy number';1;0
+e;6876814;'en:counterclockwise';1;0
+e;6876569;'en:cultural competency';1;0
+e;6876818;'en:decimal place';1;0
+e;6876820;'en:dependency';1;0
+e;6876822;'en:deriving';1;0
+e;6876824;'en:detectable';1;0
+e;9065656;'en:diameter (qualifier value)';1;0
+e;9111695;'en:dimensions';1;0
+e;13462734;'en:discordance';1;0
+e;8845283;'en:disease susceptibility';1;0
+e;6876587;'en:distance';1;0
+e;9110885;'en:does not conform';1;0
+e;6876832;'en:due to';1;0
+e;12923192;'en:effectiveness (finding)';1;0
+e;6876593;'en:effect';1;0
+e;6876597;'en:ejection fraction, quantitative';1;0
+e;9111717;'en:eligibility criteria met by subject';1;0
+e;6876840;'en:endurance';1;0
+e;8847281;'en:equal';1;0
+e;9111719;'en:exist';1;0
+e;6876605;'en:fahrenheit scale';1;0
+e;9111720;'en:flavor perception';1;0
+e;6876609;'en:font';1;0
+e;6876850;'en:format';1;0
+e;13257453;'en:function (attribute)';1;0
+e;9111721;'en:gauge (thickness dimension)';1;0
+e;9111722;'en:genetic pedigree';1;0
+e;9111723;'en:geometric radius';1;0
+e;6876617;'en:gradient';1;0
+e;6876858;'en:grouping';1;0
+e;6876860;'en:heterogeneity';1;0
+e;6876621;'en:homogeneity';1;0
+e;6876623;'en:housing humidity';1;0
+e;6876625;'en:hybrid';1;0
+e;6876627;'en:importance weight';1;0
+e;6876866;'en:improvement';1;0
+e;6876631;'en:independence';1;0
+e;6821864;'en:induration';1;0
+e;6876869;'en:inequality';1;0
+e;8847284;'en:intimate (qualifier value)';1;0
+e;6876873;'en:invaded';1;0
+e;6876875;'en:isolation';1;0
+e;6876643;'en:latitude';1;0
+e;6876881;'en:location';1;0
+e;7032194;'en:longevity';1;0
+e;6875494;'en:long';1;0
+e;9111727;'en:mark - attribute';1;0
+e;6876653;'en:match';1;0
+e;6850771;'en:measurement';1;0
+e;6876887;'en:medium growth rate';1;0
+e;6876889;'en:mitotic count';1;0
+e;9111702;'en:mood (attribute)';1;0
+e;6876893;'en:nanoparticle chemical composition';1;0
+e;6876895;'en:nonpyrogenic';1;0
+e;6876897;'en:not meeting criteria';1;0
+e;6876665;'en:notable';1;0
+e;9111703;'en:numerical value';1;0
+e;6876899;'en:object attribute';1;0
+e;6875506;'en:opacity';1;0
+e;9111729;'en:orientation (spatial)';1;0
+e;6876671;'en:perceived social support/conflict';1;0
+e;9111705;'en:perimeter topographical modifier';1;0
+e;6876677;'en:physical marking';1;0
+e;13462735;'en:physical properties';1;0
+e;9111706;'en:physiologic warmth';1;0
+e;9111707;'en:ploidies';1;0
+e;9111730;'en:polyclonality';1;0
+e;6876916;'en:polynomial degree';1;0
+e;9104765;'en:positioning attribute';1;0
+e;9111732;'en:primary language spoken';1;0
+e;6876922;'en:probability';1;0
+e;6876924;'en:proliferative index';1;0
+e;6876926;'en:property of relationship';1;0
+e;6876928;'en:proximity';1;0
+e;6876930;'en:pyrogenic';1;0
+e;6876932;'en:quality';1;0
+e;6876936;'en:rank';1;0
+e;13462737;'en:read depth';1;0
+e;6876940;'en:receiver operator characteristics';1;0
+e;6876942;'en:recombination fraction';1;0
+e;6904090;'en:regional';1;0
+e;6876946;'en:relevance';1;0
+e;6876948;'en:reproducibility';1;0
+e;6876950;'en:restart';1;0
+e;6876952;'en:s-phase fraction';1;0
+e;10041507;'en:salty';1;0
+e;6876719;'en:score';1;0
+e;6876955;'en:sequence similarity';1;0
+e;6876957;'en:sex distribution';1;0
+e;6876959;'en:similarity';1;0
+e;6876961;'en:slow growing';1;0
+e;10041511;'en:sour';1;0
+e;6876729;'en:spatial design';1;0
+e;6876967;'en:state';1;0
+e;6876969;'en:status';1;0
+e;6876737;'en:style';1;0
+e;13462739;'en:sufficiently defined concept definition status (core metadata concept)';1;0
+e;6876741;'en:time-of-flight';1;0
+e;6876743;'en:treatment effectiveness';1;0
+e;13462741;'en:umami';1;0
+e;6876977;'en:undetectable';1;0
+e;9111714;'en:unification process';1;0
+e;7469746;'en:universal';1;0
+e;7606250;'en:urgent';1;0
+e;6876751;'en:use';1;0
+e;6876985;'en:very fast growing';1;0
+e;6876757;'en:weak';1;0
+e;9111737;'en:with laterality';1;0
+e;6876767;'en:abundance';1;0
+e;6876769;'en:achiral';1;0
+e;6876522;'en:alignment';1;0
+e;6876524;'en:ambiguity';1;0
+e;6850793;'en:angle';1;0
+e;6876776;'en:area';1;0
+e;6876778;'en:asymmetry';1;0
+e;13204619;'en:aversion';1;0
+e;13462743;'en:biological properties';1;0
+e;10041505;'en:bitter';1;0
+e;6876534;'en:burden';1;0
+e;6876784;'en:cardinality';1;0
+e;6876786;'en:causing';1;0
+e;6876788;'en:cell lineage';1;0
+e;8857683;'en:characteristics';1;0
+e;6850795;'en:circumference';1;0
+e;6876547;'en:clock speed';1;0
+e;6876794;'en:clonality';1;0
+e;6876796;'en:compatible';1;0
+e;6876798;'en:composition';1;0
+e;13462745;'en:concordance';1;0
+e;6876800;'en:condition';1;0
+e;6876802;'en:conformance';1;0
+e;6876804;'en:connectivity';1;0
+e;6876806;'en:consequence';1;0
+e;6876808;'en:consistency';1;0
+e;6876810;'en:convenient';1;0
+e;6876812;'en:correlation';1;0
+e;6876567;'en:count';1;0
+e;6876816;'en:cutoff';1;0
+e;9111716;'en:demography';1;0
+e;6876575;'en:derivation';1;0
+e;6876577;'en:dermatologic';1;0
+e;6876579;'en:device induced';1;0
+e;6876581;'en:diaphoretic';1;0
+e;6876828;'en:disagreement';1;0
+e;9104762;'en:disease classification level';1;0
+e;6823304;'en:disruption';1;0
+e;6876830;'en:dna index';1;0
+e;9109521;'en:dosage';1;0
+e;6876834;'en:effect, appearance';1;0
+e;8847288;'en:effectiveness';1;0
+e;6876836;'en:ejection fraction, qualitative';1;0
+e;6876838;'en:elevation';1;0
+e;6876599;'en:eligible';1;0
+e;6876601;'en:epimeric';1;0
+e;9111696;'en:exception - responselevel';1;0
+e;6876844;'en:exposure';1;0
+e;6876846;'en:fast growing';1;0
+e;6876848;'en:focality';1;0
+e;6876611;'en:formation';1;0
+e;9052371;'en:frequencies (time pattern)';1;0
+e;9111697;'en:functional disorder';1;0
+e;6876854;'en:gene-modified';1;0
+e;6876615;'en:geographic distribution';1;0
+e;6876856;'en:grade';1;0
+e;12923559;'en:granularity';1;0
+e;6876619;'en:health';1;0
+e;7438483;'en:hl7 data type';1;0
+e;9111724;'en:homology (attribute)';1;0
+e;6876864;'en:human origin';1;0
+e;9111725;'en:impaired';1;0
+e;9111726;'en:imprisonment (finding)';1;0
+e;6876629;'en:in-house';1;0
+e;9111698;'en:inductive resistance';1;0
+e;6876633;'en:ineligibility';1;0
+e;6876635;'en:influence';1;0
+e;7365229;'en:intrinsic origin';1;0
+e;8847285;'en:involvement with';1;0
+e;9111699;'en:justification of text';1;0
+e;6876879;'en:less than';1;0
+e;6876647;'en:logical condition';1;0
+e;6876649;'en:longitude';1;0
+e;6876883;'en:magnitude';1;0
+e;9111700;'en:mass, a measure of quantity of matter';1;0
+e;6876885;'en:measurable';1;0
+e;6876655;'en:medical device attribute';1;0
+e;6876657;'en:meso compound';1;0
+e;6876659;'en:modal chromosome number';1;0
+e;6876661;'en:multiplicity';1;0
+e;6876663;'en:nerve proximity';1;0
+e;13462746;'en:not allowed to collect';1;0
+e;7995454;'en:not performed';1;0
+e;9111728;'en:numbers';1;0
+e;7014389;'en:nutrition, calories';1;0
+e;6876901;'en:occupancy';1;0
+e;9111704;'en:order (arrangement)';1;0
+e;6876669;'en:pain attribute';1;0
+e;6876907;'en:performed';1;0
+e;6876909;'en:perpendicular';1;0
+e;6876911;'en:physical phenomenon or property';1;0
+e;6876679;'en:physical strength';1;0
+e;6876681;'en:placement';1;0
+e;9111708;'en:point of interception';1;0
+e;6876683;'en:polymorphism';1;0
+e;6876918;'en:portion or totality';1;0
+e;6876920;'en:possess';1;0
+e;6876687;'en:privacy';1;0
+e;6876689;'en:productivity';1;0
+e;8857684;'en:property (attribute)';1;0
+e;6876693;'en:proportion';1;0
+e;6876695;'en:psa level';1;0
+e;8845591;'en:qualifier (concept)';1;0
+e;6876699;'en:quantity';1;0
+e;6876938;'en:reaction';1;0
+e;6876705;'en:readiness';1;0
+e;6876707;'en:reciprocal';1;0
+e;6876709;'en:redundancy';1;0
+e;6876711;'en:relative value';1;0
+e;6876713;'en:reportable event';1;0
+e;9111734;'en:resolution property';1;0
+e;6876717;'en:rna integrity number';1;0
+e;6806208;'en:safety';1;0
+e;9111709;'en:scheduled - procedure status';1;0
+e;9111710;'en:secondary language spoken';1;0
+e;8847535;'en:severities';1;0
+e;6876723;'en:significance level';1;0
+e;6876725;'en:size';1;0
+e;6876727;'en:smooth';1;0
+e;9111735;'en:space - property';1;0
+e;6876731;'en:stability';1;0
+e;6876733;'en:statistical frequency';1;0
+e;6876735;'en:strong';1;0
+e;9111712;'en:sub-visible particulates';1;0
+e;6876739;'en:syntax';1;0
+e;6876973;'en:tissue/specimen availability';1;0
+e;9104767;'en:type - attribute';1;0
+e;6876745;'en:uncharged';1;0
+e;6876747;'en:unexplained';1;0
+e;6876749;'en:unit of measure';1;0
+e;6876981;'en:unusable';1;0
+e;6876983;'en:useful';1;0
+e;9111736;'en:variable, characteristic, factor';1;0
+e;6876755;'en:very slow growing';1;0
+e;9104770;'en:with configuration';1;0
+e;6876988;'en:zone';1;0
+e;6950218;'en:applicant';1;0
+e;12921931;'en:candidate';1;0
+e;70283;'travail';1;4574
+e;10576;'politique';1;4466
+e;3100529;'Nelly Valade';777;0
+e;236513;'candidater';1;64
+e;101155;'candidat';1;384
+e;179085;'LO';1;2
+e;238238;'Eva Joly';666;20
+e;239128;'_COM';36;50
+e;14298523;'candidate&gt;171869';1;0;'candidate&gt;Adj:'
+e;14292261;'candidate&gt;2946892';1;0;'candidate&gt;Ver:Conjug'
+e;14292262;'candidate&gt;171870';1;0;'candidate&gt;Nom:'
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;150118;'Ver:IPre+SG+P3';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;171869;'Adj:';4;50
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;161698;'Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;2946892;'Ver:Conjug';4;0
+e;146881;'Nom:Fem+SG';4;50
+e;171870;'Nom:';4;50
+e;7053968;'en:conceptual entity';1;0
+e;15351976;'candidate au bac';1;0
+e;15351981;'candidate à un poste';1;0
+e;15240555;'candidate au baccalauréat';1;0
+e;15266627;'candidate aux primaires PS';1;0
+e;15351978;'candidate de droite';1;0
+e;15351980;'candidate de gauche';1;0
+e;15351977;'candidate en lice';1;0
+e;15351973;'candidate membre';1;0
+e;15351975;'candidate officielle';1;0
+e;15262689;'candidate retenue';1;0
+e;15288610;'candidate à l'embauche';1;0
+e;15351974;'candidate sortante';1;0
+e;15250304;'candidate à l'immigration';1;0
+e;15351984;'candidate à la députation';1;0
+e;15264009;'candidate à la primaire démocrate';1;0
+e;15351982;'candidate à la primaire';1;0
+e;15227730;'candidate à la primaire socialiste';1;0
+e;15416605;'candidate à un jeu';1;0
+e;15102466;'en:write-in candidate';1;0
+e;15101593;'en:favorite son';1;0
+e;15060966;'en:stalking-horse';1;0
+e;5521320;'candidate de téléréalité';1;0
+e;14317020;'candidate EE-LV';1;12
+e;51126;'cheveux';1;3106
+e;50869;'seins';1;644
+e;144846;'tête';1;5684
+e;142086;'jambe';1;3332
+e;81934;'main';1;6658
+e;26363;'bras';1;3760
+e;140715;'jambes';1;794
+e;107477;'nez';1;2603
+e;77424;'oeil';1;3212
+e;16110;'bouche';1;4300
+e;240720;'squelette&gt;112609';1;148;'squelette&gt;anatomie'
+e;213977;'bassin&gt;112609';1;18;'bassin&gt;anatomie'
+e;225934;'oeil&gt;330323';1;202;'oeil&gt;organe de la vue'
+e;77008;'yeux';1;4150
+e;139779;'ADN';1;716
+e;95422;'cou';1;1058
+e;34898;'pied';1;4290
+e;96211;'coeur';1;2308
+e;228289;'sexe&gt;218086';1;270;'sexe&gt;organe sexuel'
+e;221019;'bouche&gt;112609';1;208;'bouche&gt;anatomie'
+e;74846;'corps';1;4798
+e;145953;'visage';1;2480
+e;6401104;'candidate avortement';1;0
+e;14454082;'personne publique candidate';1;0
+e;16325392;'candidate à la présidence';1;0
+e;15227099;'clef candidate';1;0
+e;16073826;'Personne publique candidate';1;0
+e;10906507;'candidate pour l'accueil des Jeux olympiques d'été de 1968';777;0
+e;10598935;'candidate pour l'organisation des Jeux olympiques d'été de 2004';777;0
+e;3875375;'présidente-candidate';1;0
+e;10299151;'La candidate';777;0
+e;2422515;'clé candidate';1;0
+e;4344495;'ville candidate';1;0
+e;151553;'_FL:0';6;50
+e;152836;'_FL:24';6;50
+e;1384;'vivant';1;766
+e;7332979;'Langue:anglais';18;50
+e;14916413;'Langue:français';18;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;2442;'vivre';1;2378
+e;251694;'mourir&gt;126720';1;232;'mourir&gt;cesser de vivre'
+e;140318;'parler';1;4062
+e;259820;'vivre&gt;160251';1;74;'vivre&gt;être en vie'
+e;43601;'se reproduire';1;496
+e;43253;'dormir';1;6518
+e;124600;'mourir';1;2016
+e;328779;'::&gt;14:27268&gt;29:69379';8;50;'rater [objet] examen'
+e;258097;'faire un hors-sujet';1;50
+e;126824;'être recalé';1;84
+e;37151;'mélanger';1;658
+e;195060;'::&gt;14:27268&gt;29:69379&gt;13';9;50;'Qui pourrait rater un examen ?'
+e;327195;'::&gt;14:27268&gt;29:103230';8;50;'louper [objet] examen'
+e;158081;'::&gt;14:27268&gt;29:103230&gt;13';9;50;'Qui pourrait louper un examen ?'
+e;103405;'indifférence';1;610
+e;14330;'satisfaction';1;614
+e;254878;'_POL-NEG_PC';36;50
+e;162761;'_INFO-SEM-PERS';36;732
+e;250117;'_INFO-SEM-PERS-FEM';36;50
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;273221;'_INFO-WIKI-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;254876;'_POL-POS_PC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;323670;'femme politique française';1;24
+e;2960354;'Laly';1;0
+e;14316928;'Clothilde Ollier';1;0
+e;14976056;':r10707304';10;0
+e;14976057;':r9966617';10;0
+e;16445395;':r433400559';10;0
+e;16445994;':r433401159';10;0
+e;16446074;':r433401239';10;0
+e;16446255;':r433401420';10;0
+e;16446505;':r433401670';10;0
+e;16446698;':r433401863';10;0
+e;16446859;':r433402024';10;0
+e;16446999;':r433402164';10;0
+e;16447167;':r433402332';10;0
+e;16448305;':r433403470';10;0
+e;16448650;':r433403815';10;0
+e;16449339;':r433404505';10;0
+e;16449539;':r433404705';10;0
+e;16449694;':r433404860';10;0
+e;16450828;':r433405995';10;0
+e;16451103;':r433406270';10;0
+e;16451398;':r433406565';10;0
+e;16451659;':r433406826';10;0
+e;12663448;'b26148a0040efe3f672c8cf6e053450c';200;0
+e;12669036;'e45ce3cbf2347f8ad134b741aa84025c';200;0
+e;12669038;'9db492c4f98934409d02ae5727968e83';200;0
+e;12670800;'14d3c2134c6bdb74c188d8b4f6c6f07e';200;0
+e;12670807;'8a6edb4fdcf4914b7cd2a5f1ab812ade';200;0
+e;12679529;'a2d40d8957213493c0a84b25b3c14bd2';200;0
+e;12679557;'8ce42dd3915892483f8d549ea9992a6c';200;0
+e;12679934;'06b2bf57ce15421dcaf6847f07644c7b';200;0
+e;12697343;'34fb05f56f09a36ba81941ebf942b537';200;0
+e;12701950;'ce910e82858c332a59c9e6a8f2814bd4';200;0
+e;12709187;'1b8a1990f5e9bc3889b2744188a7e238';200;0
+e;12710846;'c48c1fb1ee3f02c714a833cdb0b6576b';200;0
+e;12711540;'5c202c1d70e0cd56a39df56bb2cd9c22';200;0
+e;12715923;'757dfb99801d2a3c322d9b340d7f693d';200;0
+e;12718181;'18b733b762fc4b3d353723a360345ea9';200;0
+e;12722889;'81704ba86620dfc489c4fbfdb7988125';200;0
+e;12726701;'f7d015c30c82e748fb1f303160e6d284';200;0
+e;12730729;'8f37a48191db8c3b5ceda8047be0d635';200;0
+e;12763704;'e12603b66d3f6ff4a5effe9993da3223';200;0
+e;12772166;'dd7b8ae0dd851659630782f31d297ff2';200;0
+e;12784444;'8cc50045b89d9875c94753b6bb2dbe94';200;0
+e;12784452;'716a86301de40f86acdda3edd780b8bc';200;0
+e;12864540;'8b03c27c4c502056fb1f7ce2c8537030';200;0
+e;12904131;'4d982b163b79d7cfb2915fb5ec9cdaf8';200;0
+e;12984630;'e223d7d7440eec698f3ea56417d8842f';200;0
+e;12984681;'99a2f61f503950bd1411e8f2a401954c';200;0
+e;12984750;'816f240d6ba9c2390cb7d2030c54d3f7';200;0
+e;12990243;'8462dc4eb237c1028f2286a30174465a';200;0
+e;12995269;'e59e9c25bd2db6cf006195856bfdad15';200;0
+e;12995296;'e6d8ef99b876d7d6c8cb9a21416bb977';200;0
+e;12995356;'472c71b4799826c051c1891984aed60b';200;0
+e;12995378;'60ae924bfae00425b30bf8700a86e580';200;0
+e;13100746;'6887dedf4e08ca28b25f92c87d0a9c4d';200;0
+e;13299891;'e0458dfd6fc4da7498d22837562b0770';200;0
+e;13300024;'229a77c1836329157b372f14e7cb67ce';200;0
+e;13300624;'b5ca14302411bfae0890a858fbfff58e';200;0
+e;13300663;'7a3d26adcd6d7b50a4e464ce5f0d5ac1';200;0
+e;13429484;'b10257f9959a8c4cb0d2dc3ff7c11ab0';200;0
+e;12665022;'2097e6b7979cb71a607ee4bdfc3d76da';200;0
+e;12664998;'9407203968fc8468fcaf6188e5a95f69';200;0
+e;12665016;'7c810c5db90b20e50300edce6a94d2bc';200;0
+e;12665017;'cd71d709f86345a1b83fbe303807820f';200;0
+e;12665023;'fc9b58ee832676bebad3210ac31bfaef';200;0
+e;12691089;'08ccf9a22b72b8b820204c4a47e29aa4';200;0
+e;12710977;'0d0a178667f5fc6f6e19e9a45b7ded0b';200;0
+e;12710993;'f3522d192fd6ff53915d1cc7ae170930';200;0
+e;12711455;'18b84fa94377ccef822ccbba0fbaa1ef';200;0
+e;12711471;'ba41c52fdc26568fea4f4826cfebd85d';200;0
+e;12720268;'f326b34cfd537328341dba7ced08c312';200;0
+e;12769575;'ebf37eb0135e9757060d21755e2726cc';200;0
+e;12812906;'9b4c56d516e5d0f49e1779a416b29989';200;0
+e;12864832;'2ec9f567997da522cc91c3ac9e7c2494';200;0
+e;12979356;'1ed6129c453a1369a9b9da18d54c0768';200;0
+e;13547857;'24d2a3badbbb3922a124fbb46dc97a97';200;0
+e;13547911;'98b90dc85be561b8c1985bc7e13c26ac';200;0
+e;13547914;'c86fa5af6366dd37dc7515ea45634a15';200;0
+e;13547989;'bd91473154723dcb8a483a42d1ffe1bb';200;0
+e;13628282;'cb7dbc71f6c5c666bac9677d5eea8a81';200;0
+e;13644480;'30778270b021aa4f52ef65877b474118';200;0
+e;13683603;'94ca78239f18752f19a1cb7d0a8e3ac3';200;0
+e;13991959;'b49d827e34e17b6cd11b2196fb7f1826';200;0
+e;14002493;'1767b71bae5817d5e961878383272079';200;0
+e;14051859;'1e6bf4aeca41938c445483395ace9b25';200;0
+e;14093981;'cbd2c1a63a7b0fd2618afac4aa2f5e8f';200;0
+e;14130233;'c5e981a1185f1aa1bb2703e1de749c03';200;0
+e;14153524;'e374f14e828bff67e836f4ecd1164a7b';200;0
+e;14172605;'e8b772f3e0722bbca1419b3fe895c540';200;0
+e;14474518;'771a98442cf10ced4047ab74392c1c96';200;0
+e;14462488;'0079e7d174654be263923b7efd1cb201';200;0
+e;14733890;'dd48439d38b8dbf152bb1fd9a9ed3975';200;0
+e;14744620;'6736759e126b6d53f3df8b7bfd8c28a9';200;0
+e;14744769;'08ca41122632253b01071c7943281ef3';200;0
+e;14755562;'2f753bdcef6ec530c9c77b42bafd1763';200;0
+e;15684557;'d3146536a00b4744a6749388866a667e';200;0
+e;15788299;'d22df75233a22e9128a7e686c317efe4';200;0
+e;15788721;'7796bba805c83a5a13e4a1f5631f35c4';200;0
+e;16172827;'2c2c261ac3570035e27f962d4a875aa4';200;0
+e;16182653;'59e87fc0c71b8fbd8ceaaf8071660eb7';200;0
+e;16242627;'d47966959d41687aa1bb352acb0db1a8';200;0
+e;16391588;'e2086d969a56fabb3a555a50c430d34d';200;0
+e;12711734;'c9c15df21925f8731a60cc0dd20145d6';200;0
+e;12769914;'ab3c484cc04a7673be6ddedc604b7039';200;0
+e;12882811;'c5f4b722733c134e04513780f0e4fe0d';200;0
+e;13628403;'f8a009105ee476a2825c693c3151cfa9';200;0
+e;14036186;'3718a66a7f19b74591e770c439c77b30';200;0
+e;14326181;'b7c7254a8995c31d947cf7ec42a1501c';200;0
+e;14466845;'2269c8c0871af95e427816e7c15ad655';200;0
+e;12721637;'91ce253ee17bbb94f919a0eb34809679';200;0
+e;12721639;'3a6bfbe8d08eb0b0ad4a59adfc60d2d7';200;0
+e;12921932;'umls:CL525069';444;0
+e;2983124;'_SW';36;50
+e;187499;'Corinne Lepage';1;20
+e;599673;'candidates';777;4
+e;14530403;'présenter sa candidature';1;20
+e;14731045;'SE-EELV';1;6
+e;154413;'Ségolène';1;58
+e;15240604;'en:candidate in contention';1;0
+e;15266626;'en:candidate for the PS primaries';1;0
+e;15240554;'en:candidate for the baccalaureate';1;0
+e;15416604;'candidat à un jeu';1;0
+e;15580302;'en:games contestant';1;0
+e;103664;'voter';1;540
+e;15099;'souhaiter';1;400
+e;166203;'Sarah Palin';1;50
+e;230808;'Sophie Favier';1;2
+e;6066367;'baie de Tokyo';777;0
+e;12881916;'Martine Brunschwig Graf';777;0
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;12;'r_flpot';' 	r_flpot';(relation interne) potentiel de relation
+rt;13;'r_agent';'action&gt;agent';L'agent (qu'on appelle aussi le sujet) est l'entité qui effectue l'action, OU la subit pour des formes passives ou des verbes d'état. Par exemple, dans - Le chat mange la souris -, l'agent est le chat. Des agents typiques de 'courir' peuvent être 'sportif', 'enfant',... (manger r_agent chat)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;24;'r_agent-1';'agent typique-1';Que peut faire ce SUJET ? (par exemple chat =&gt; miauler, griffer, etc.) (chat r_agent-1 manger)
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;55;'r_against';'s'oppose à';A quoi le terme suivant S'OPPOSE/COMBAT/EMPECHE ? Par exemple, un médicament s'oppose à la maladie.
+rt;56;'r_against-1';'a comme opposition';Inverse de r_against (s'oppose à) - a comme opposition active (S'OPPOSE/COMBAT/EMPECHE). Par exemple, une bactérie à comme opposition antibiotique.
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --&gt; lion.
+rt;60;'r_fem';'équivalent fem';L'équivalent féminin du terme : lion --&gt; lionne.
+rt;64;'r_has_instance';'a pour instance';Une instance d'un 'type' est un individu particulier de ce type. Il s'agit d'une entité nommée (personne, lieu, organisation, etc) - par exemple, 'cheval' a pour instance possible 'Jolly Jumper', ou encore 'transatlantique' a pour instance possible 'Titanic'.
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --&gt; adénomyose)
+rt;128;'r_node2relnode';'r_node2relnode';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - permet de rendre le graphe connexe même avec les annotations de relations
+rt;130;'r_is_instance_of';'est une instance de';Une instance est un individu particulier. Il s'agit d'une entité nommée (personne, lieu, organisation, etc) - par exemple, 'Jolly Jumper' est une instance de 'cheval', 'Titanic' en est une de 'transatlantique'.
+rt;150;'r_beneficiaire';'action&gt;bénéficiaire';Le bénéficiaire est l'entité qui tire bénéfice/préjudice de l'action (un complément d'objet indirect introduit par 'à', 'pour', ...). Par exemple dans - La sorcière donne une pomme à Blanche Neige -, la bénéficiaire est Blanche Neige ... enfin, bref, vous avez compris l'idée.
+rt;200;'r_context';'r_context';Relation de contexte entre un terme et un noeud contexte.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+
+r;430251295;224004;101689;0;1
+r;430252821;224004;68439;0;1
+r;430254176;224004;116477;0;1
+r;430316505;224004;225916;0;1
+r;430317448;224004;234036;0;1
+r;430317678;224004;244620;0;1
+r;430317898;224004;24956;0;1
+r;430321039;224004;220013;0;1
+r;430321042;224004;61490;0;1
+r;12884016;224004;240940;0;19
+r;391159533;224004;9111691;0;25
+r;391159534;224004;6876520;0;25
+r;391159535;224004;6876772;0;25
+r;391159536;224004;6876774;0;25
+r;391159537;224004;6876526;0;25
+r;391159538;224004;9111692;0;25
+r;391159539;224004;9111693;0;25
+r;391159540;224004;6876532;0;25
+r;391159541;224004;9111694;0;25
+r;391159542;224004;6876780;0;25
+r;391159543;224004;6876536;0;25
+r;391159544;224004;6876538;0;25
+r;391159545;224004;6876540;0;25
+r;391159546;224004;6876542;0;25
+r;391159547;224004;6876544;0;25
+r;391159548;224004;6876545;0;25
+r;391159549;224004;6876792;0;25
+r;391159550;224004;6876549;0;25
+r;391159551;224004;9111715;0;25
+r;391159552;224004;6876553;0;25
+r;391159553;224004;6876555;0;25
+r;391159554;224004;9064828;0;25
+r;391159555;224004;6876557;0;25
+r;391159556;224004;6876559;0;25
+r;391159557;224004;6876561;0;25
+r;391159558;224004;6876563;0;25
+r;391159559;224004;6876565;0;25
+r;391159560;224004;6876814;0;25
+r;391159561;224004;6876569;0;25
+r;391159562;224004;6876818;0;25
+r;391159563;224004;6876820;0;25
+r;391159564;224004;6876822;0;25
+r;391159565;224004;6876824;0;25
+r;391159566;224004;9065656;0;25
+r;391159567;224004;9111695;0;25
+r;391159568;224004;13462734;0;25
+r;391159569;224004;8845283;0;25
+r;391159570;224004;6876587;0;25
+r;391159571;224004;9110885;0;25
+r;391159572;224004;6876832;0;25
+r;391159573;224004;12923192;0;25
+r;391159574;224004;6876593;0;25
+r;391159575;224004;6876597;0;25
+r;391159576;224004;9111717;0;25
+r;391159577;224004;6876840;0;25
+r;391159578;224004;8847281;0;25
+r;391159579;224004;9111719;0;25
+r;391159580;224004;6876605;0;25
+r;391159581;224004;9111720;0;25
+r;391159582;224004;6876609;0;25
+r;391159583;224004;6876850;0;25
+r;391159584;224004;13257453;0;25
+r;391159585;224004;9111721;0;25
+r;391159586;224004;9111722;0;25
+r;391159587;224004;9111723;0;25
+r;391159588;224004;6876617;0;25
+r;391159589;224004;6876858;0;25
+r;391159590;224004;6876860;0;25
+r;391159591;224004;6876621;0;25
+r;391159592;224004;6876623;0;25
+r;391159593;224004;6876625;0;25
+r;391159594;224004;6876627;0;25
+r;391159595;224004;6876866;0;25
+r;391159596;224004;6876631;0;25
+r;391159597;224004;6821864;0;25
+r;391159598;224004;6876869;0;25
+r;391159599;224004;8847284;0;25
+r;391159600;224004;6876873;0;25
+r;391159601;224004;6876875;0;25
+r;391159602;224004;6876643;0;25
+r;391159603;224004;6876881;0;25
+r;391159604;224004;7032194;0;25
+r;391159605;224004;6875494;0;25
+r;391159606;224004;9111727;0;25
+r;391159607;224004;6876653;0;25
+r;391159608;224004;6850771;0;25
+r;391159609;224004;6876887;0;25
+r;391159610;224004;6876889;0;25
+r;391159611;224004;9111702;0;25
+r;391159612;224004;6876893;0;25
+r;391159613;224004;6876895;0;25
+r;391159614;224004;6876897;0;25
+r;391159615;224004;6876665;0;25
+r;391159616;224004;9111703;0;25
+r;391159617;224004;6876899;0;25
+r;391159618;224004;6875506;0;25
+r;391159619;224004;9111729;0;25
+r;391159620;224004;6876671;0;25
+r;391159621;224004;9111705;0;25
+r;391159622;224004;6876677;0;25
+r;391159623;224004;13462735;0;25
+r;391159624;224004;9111706;0;25
+r;391159625;224004;9111707;0;25
+r;391159626;224004;9111730;0;25
+r;391159627;224004;6876916;0;25
+r;391159628;224004;9104765;0;25
+r;391159629;224004;9111732;0;25
+r;391159630;224004;6876922;0;25
+r;391159631;224004;6876924;0;25
+r;391159632;224004;6876926;0;25
+r;391159633;224004;6876928;0;25
+r;391159634;224004;6876930;0;25
+r;391159635;224004;6876932;0;25
+r;391159636;224004;6876936;0;25
+r;391159637;224004;13462737;0;25
+r;391159638;224004;6876940;0;25
+r;391159639;224004;6876942;0;25
+r;391159640;224004;6904090;0;25
+r;391159641;224004;6876946;0;25
+r;391159642;224004;6876948;0;25
+r;391159643;224004;6876950;0;25
+r;391159644;224004;6876952;0;25
+r;391159645;224004;10041507;0;25
+r;391159646;224004;6876719;0;25
+r;391159647;224004;6876955;0;25
+r;391159648;224004;6876957;0;25
+r;391159649;224004;6876959;0;25
+r;391159650;224004;6876961;0;25
+r;391159651;224004;10041511;0;25
+r;391159652;224004;6876729;0;25
+r;391159653;224004;6876967;0;25
+r;391159654;224004;6876969;0;25
+r;391159655;224004;6876737;0;25
+r;391159656;224004;13462739;0;25
+r;391159657;224004;6876741;0;25
+r;391159658;224004;6876743;0;25
+r;391159659;224004;13462741;0;25
+r;391159660;224004;6876977;0;25
+r;391159661;224004;9111714;0;25
+r;391159662;224004;7469746;0;25
+r;391159663;224004;7606250;0;25
+r;391159664;224004;6876751;0;25
+r;391159665;224004;6876985;0;25
+r;391159666;224004;6876757;0;25
+r;391159667;224004;9111737;0;25
+r;391159668;224004;6876767;0;25
+r;391159669;224004;6876769;0;25
+r;391159670;224004;6876522;0;25
+r;391159671;224004;6876524;0;25
+r;391159672;224004;6850793;0;25
+r;391159673;224004;6876776;0;25
+r;391159674;224004;6876778;0;25
+r;391159675;224004;13204619;0;25
+r;391159676;224004;13462743;0;25
+r;391159677;224004;10041505;0;25
+r;391159678;224004;6876534;0;25
+r;391159679;224004;6876784;0;25
+r;391159680;224004;6876786;0;25
+r;391159681;224004;6876788;0;25
+r;391159682;224004;8857683;0;25
+r;391159683;224004;6850795;0;25
+r;391159684;224004;6876547;0;25
+r;391159685;224004;6876794;0;25
+r;391159686;224004;6876796;0;25
+r;391159687;224004;6876798;0;25
+r;391159688;224004;13462745;0;25
+r;391159689;224004;6876800;0;25
+r;391159690;224004;6876802;0;25
+r;391159691;224004;6876804;0;25
+r;391159692;224004;6876806;0;25
+r;391159693;224004;6876808;0;25
+r;391159694;224004;6876810;0;25
+r;391159695;224004;6876812;0;25
+r;391159696;224004;6876567;0;25
+r;391159697;224004;6876816;0;25
+r;391159698;224004;9111716;0;25
+r;391159699;224004;6876575;0;25
+r;391159700;224004;6876577;0;25
+r;391159701;224004;6876579;0;25
+r;391159702;224004;6876581;0;25
+r;391159703;224004;6876828;0;25
+r;391159704;224004;9104762;0;25
+r;391159705;224004;6823304;0;25
+r;391159706;224004;6876830;0;25
+r;391159707;224004;9109521;0;25
+r;391159708;224004;6876834;0;25
+r;391159709;224004;8847288;0;25
+r;391159710;224004;6876836;0;25
+r;391159711;224004;6876838;0;25
+r;391159712;224004;6876599;0;25
+r;391159713;224004;6876601;0;25
+r;391159714;224004;9111696;0;25
+r;391159715;224004;6876844;0;25
+r;391159716;224004;6876846;0;25
+r;391159717;224004;6876848;0;25
+r;391159718;224004;6876611;0;25
+r;391159719;224004;9052371;0;25
+r;391159720;224004;9111697;0;25
+r;391159721;224004;6876854;0;25
+r;391159722;224004;6876615;0;25
+r;391159723;224004;6876856;0;25
+r;391159724;224004;12923559;0;25
+r;391159725;224004;6876619;0;25
+r;391159726;224004;7438483;0;25
+r;391159727;224004;9111724;0;25
+r;391159728;224004;6876864;0;25
+r;391159729;224004;9111725;0;25
+r;391159730;224004;9111726;0;25
+r;391159731;224004;6876629;0;25
+r;391159732;224004;9111698;0;25
+r;391159733;224004;6876633;0;25
+r;391159734;224004;6876635;0;25
+r;391159735;224004;7365229;0;25
+r;391159736;224004;8847285;0;25
+r;391159737;224004;9111699;0;25
+r;391159738;224004;6876879;0;25
+r;391159739;224004;6876647;0;25
+r;391159740;224004;6876649;0;25
+r;391159741;224004;6876883;0;25
+r;391159742;224004;9111700;0;25
+r;391159743;224004;6876885;0;25
+r;391159744;224004;6876655;0;25
+r;391159745;224004;6876657;0;25
+r;391159746;224004;6876659;0;25
+r;391159747;224004;6876661;0;25
+r;391159748;224004;6876663;0;25
+r;391159749;224004;13462746;0;25
+r;391159750;224004;7995454;0;25
+r;391159751;224004;9111728;0;25
+r;391159752;224004;7014389;0;25
+r;391159753;224004;6876901;0;25
+r;391159754;224004;9111704;0;25
+r;391159755;224004;6876669;0;25
+r;391159756;224004;6876907;0;25
+r;391159757;224004;6876909;0;25
+r;391159758;224004;6876911;0;25
+r;391159759;224004;6876679;0;25
+r;391159760;224004;6876681;0;25
+r;391159761;224004;9111708;0;25
+r;391159762;224004;6876683;0;25
+r;391159763;224004;6876918;0;25
+r;391159764;224004;6876920;0;25
+r;391159765;224004;6876687;0;25
+r;391159766;224004;6876689;0;25
+r;391159767;224004;8857684;0;25
+r;391159768;224004;6876693;0;25
+r;391159769;224004;6876695;0;25
+r;391159770;224004;8845591;0;25
+r;391159771;224004;6876699;0;25
+r;391159772;224004;6876938;0;25
+r;391159773;224004;6876705;0;25
+r;391159774;224004;6876707;0;25
+r;391159775;224004;6876709;0;25
+r;391159776;224004;6876711;0;25
+r;391159777;224004;6876713;0;25
+r;391159778;224004;9111734;0;25
+r;391159779;224004;6876717;0;25
+r;391159780;224004;6806208;0;25
+r;391159781;224004;9111709;0;25
+r;391159782;224004;9111710;0;25
+r;391159783;224004;8847535;0;25
+r;391159784;224004;6876723;0;25
+r;391159785;224004;6876725;0;25
+r;391159786;224004;6876727;0;25
+r;391159787;224004;9111735;0;25
+r;391159788;224004;6876731;0;25
+r;391159789;224004;6876733;0;25
+r;391159790;224004;6876735;0;25
+r;391159791;224004;9111712;0;25
+r;391159792;224004;6876739;0;25
+r;391159793;224004;6876973;0;25
+r;391159794;224004;9104767;0;25
+r;391159795;224004;6876745;0;25
+r;391159796;224004;6876747;0;25
+r;391159797;224004;6876749;0;25
+r;391159798;224004;6876981;0;25
+r;391159799;224004;6876983;0;25
+r;391159800;224004;9111736;0;25
+r;391159801;224004;6876755;0;25
+r;391159802;224004;9104770;0;25
+r;391159803;224004;6876988;0;25
+r;415595763;224004;6950218;0;25
+r;390971169;224004;12921931;0;28
+r;9095542;224004;70283;0;30
+r;15335295;224004;10576;0;35
+r;262943992;224004;3100529;0;66
+r;87488389;224004;236513;0;74
+r;87487332;224004;101155;0;77
+r;15583322;224004;179085;0;82
+r;9964327;224004;238238;0;89
+r;24163221;224004;239128;0;1000000
+r;363952254;224004;14298523;2;105
+r;363929403;224004;14292261;2;150
+r;363929407;224004;14292262;2;305
+r;8917133;224004;10576;3;35
+r;361878810;224004;14270798;4;25
+r;363206948;224004;14270847;4;25
+r;363027974;224004;14270944;4;25
+r;363018983;224004;14270943;4;25
+r;363010027;224004;14270942;4;25
+r;363001150;224004;14270945;4;25
+r;362992238;224004;150120;4;25
+r;362983075;224004;150119;4;25
+r;362974060;224004;150118;4;25
+r;362965155;224004;150117;4;25
+r;79957016;224004;3093591;4;29
+r;119722796;224004;171869;4;30
+r;79957015;224004;3093590;4;34
+r;72093833;224004;2935005;4;45
+r;12087604;224004;161698;4;60
+r;12087605;224004;212235;4;65
+r;54042029;224004;2586628;4;65
+r;54073112;224004;2586629;4;65
+r;72423141;224004;2946892;4;65
+r;12087606;224004;146881;4;100
+r;8917112;224004;171870;4;149
+r;390971170;224004;12921931;5;25
+r;391159804;224004;7053968;6;25
+r;428894961;224004;24956;6;25
+r;428897472;224004;244620;6;25
+r;428898030;224004;234036;6;25
+r;428900107;224004;225916;6;25
+r;429945362;224004;116477;6;25
+r;429963496;224004;68439;6;25
+r;429966494;224004;101689;6;25
+r;428852424;224004;61490;6;75
+r;428852425;224004;220013;6;155
+r;430321023;224004;15351976;8;1
+r;430321024;224004;15351981;8;1
+r;430321025;224004;15240555;8;1
+r;430321026;224004;15266627;8;1
+r;430321027;224004;15351978;8;1
+r;430321028;224004;15351980;8;1
+r;430321029;224004;15351977;8;1
+r;430321030;224004;15351973;8;1
+r;430321031;224004;15351975;8;1
+r;430321032;224004;15262689;8;1
+r;430321033;224004;15288610;8;1
+r;430321034;224004;15351974;8;1
+r;430321035;224004;15250304;8;1
+r;430321036;224004;15351984;8;1
+r;430321037;224004;15264009;8;1
+r;430321038;224004;15351982;8;1
+r;430321041;224004;15227730;8;1
+r;430321044;224004;15416605;8;1
+r;393644791;224004;15102466;8;10
+r;393644792;224004;15101593;8;10
+r;393644793;224004;15060966;8;10
+r;248472938;224004;5521320;8;25
+r;376335282;224004;14317020;8;25
+r;428889976;224004;51126;9;25
+r;428890402;224004;50869;9;25
+r;428891053;224004;144846;9;25
+r;428891737;224004;142086;9;25
+r;428894799;224004;81934;9;25
+r;428894923;224004;26363;9;25
+r;428897309;224004;140715;9;25
+r;428898837;224004;107477;9;25
+r;428899620;224004;77424;9;25
+r;428901347;224004;16110;9;25
+r;428901389;224004;240720;9;25
+r;428901826;224004;213977;9;25
+r;428902166;224004;225934;9;25
+r;428902259;224004;77008;9;25
+r;428902665;224004;139779;9;25
+r;428902880;224004;95422;9;25
+r;428902977;224004;34898;9;25
+r;428904781;224004;96211;9;25
+r;429913616;224004;228289;9;25
+r;429948392;224004;221019;9;25
+r;429963783;224004;74846;9;25
+r;429968286;224004;145953;9;25
+r;10975942;224004;240940;10;67
+r;11929007;224004;179085;10;72
+r;305200707;224004;6401104;11;25
+r;366929859;224004;14454082;11;25
+r;434377024;224004;16325392;11;26
+r;419679699;224004;15351976;11;27
+r;419679703;224004;15240555;11;27
+r;419679707;224004;15266627;11;27
+r;419679711;224004;15351978;11;27
+r;419679715;224004;15351980;11;27
+r;419679718;224004;15351977;11;27
+r;419679722;224004;15351973;11;27
+r;419679726;224004;15351975;11;27
+r;419679730;224004;15262689;11;27
+r;419679734;224004;15351974;11;27
+r;419679738;224004;15288610;11;27
+r;419679742;224004;15250304;11;27
+r;419679746;224004;15351984;11;27
+r;419679750;224004;15351982;11;27
+r;419679754;224004;15264009;11;27
+r;419679763;224004;15227730;11;27
+r;419679772;224004;15351981;11;27
+r;419713336;224004;15227099;11;27
+r;395253743;224004;15416605;11;28
+r;419524181;224004;16073826;11;28
+r;364332675;224004;14317020;11;29
+r;274283932;224004;10906507;11;30
+r;264443308;224004;10598935;11;31
+r;95352813;224004;3875375;11;32
+r;247507092;224004;10299151;11;37
+r;54502004;224004;2422515;11;40
+r;109033238;224004;5521320;11;47
+r;99104974;224004;4344495;11;53
+r;1681017;224004;151553;12;13
+r;3134943;224004;152836;12;23
+r;428903984;224004;1384;17;25
+r;390130048;224004;7332979;18;25
+r;394945503;224004;14916413;18;25
+r;90800393;224004;3576104;18;27
+r;89909925;224004;3575927;18;30
+r;8917120;224004;101155;19;28
+r;78815202;224004;224004;19;31
+r;12087603;224004;236513;19;52
+r;428898526;224004;2442;24;25
+r;428899068;224004;251694;24;25
+r;428902818;224004;140318;24;25
+r;428903460;224004;259820;24;25
+r;428904617;224004;43601;24;25
+r;429963194;224004;43253;24;25
+r;429963408;224004;124600;24;25
+r;14812773;224004;328779;24;30
+r;28733974;224004;258097;24;30
+r;69127385;224004;126824;24;30
+r;72664976;224004;37151;24;30
+r;14814046;224004;195060;24;67
+r;14821457;224004;327195;24;67
+r;14826288;224004;158081;24;67
+r;72964757;224004;103405;32;3
+r;33737771;224004;14330;32;10
+r;26869703;224004;254878;36;13
+r;428889248;224004;162761;36;25
+r;428891566;224004;250117;36;25
+r;428891856;224004;191669;36;25
+r;101998543;224004;273221;36;28
+r;363929406;224004;438949;36;29
+r;9324366;224004;254877;36;37
+r;26407321;224004;223172;36;38
+r;9324365;224004;254876;36;50
+r;101998542;224004;2585997;36;56
+r;9225897;224004;241794;36;110
+r;9169474;224004;223173;36;148
+r;375709937;224004;323670;55;25
+r;8917127;224004;101155;59;37
+r;131271058;224004;2960354;64;85
+r;364330397;224004;14316928;64;90
+r;109082237;224004;3100529;64;187
+r;8978529;224004;238238;64;402
+r;390130049;224004;12921931;72;25
+r;391496784;224004;14976056;128;10
+r;391496789;224004;14976057;128;10
+r;433554762;224004;16445395;128;30
+r;433558357;224004;16445994;128;30
+r;433558837;224004;16446074;128;30
+r;433559923;224004;16446255;128;30
+r;433561423;224004;16446505;128;30
+r;433562581;224004;16446698;128;30
+r;433563548;224004;16446859;128;30
+r;433564388;224004;16446999;128;30
+r;433565396;224004;16447167;128;30
+r;433572262;224004;16448305;128;30
+r;433574332;224004;16448650;128;30
+r;433578466;224004;16449339;128;30
+r;433579666;224004;16449539;128;30
+r;433580596;224004;16449694;128;30
+r;433587400;224004;16450828;128;30
+r;433589050;224004;16451103;128;30
+r;433590820;224004;16451398;128;30
+r;433592386;224004;16451659;128;30
+r;324068307;224004;12663448;200;1
+r;324289075;224004;12669036;200;1
+r;324289126;224004;12669038;200;1
+r;324354309;224004;12670800;200;1
+r;324354575;224004;12670807;200;1
+r;324680996;224004;12679529;200;1
+r;324681836;224004;12679557;200;1
+r;324699029;224004;12679934;200;1
+r;325429878;224004;12697343;200;1
+r;325734215;224004;12701950;200;1
+r;325944837;224004;12709187;200;1
+r;326039892;224004;12710846;200;1
+r;326074493;224004;12711540;200;1
+r;326278063;224004;12715923;200;1
+r;326409103;224004;12718181;200;1
+r;326630975;224004;12722889;200;1
+r;326795812;224004;12726701;200;1
+r;326960667;224004;12730729;200;1
+r;327449242;224004;12763704;200;1
+r;327712108;224004;12772166;200;1
+r;327995596;224004;12784444;200;1
+r;327995914;224004;12784452;200;1
+r;329546544;224004;12864540;200;1
+r;331172785;224004;12904131;200;1
+r;333520983;224004;12984630;200;1
+r;333523830;224004;12984681;200;1
+r;333525960;224004;12984750;200;1
+r;333833476;224004;12990243;200;1
+r;334056985;224004;12995269;200;1
+r;334057531;224004;12995296;200;1
+r;334058539;224004;12995356;200;1
+r;334059054;224004;12995378;200;1
+r;335177173;224004;13100746;200;1
+r;338273345;224004;13299891;200;1
+r;338275752;224004;13300024;200;1
+r;338287136;224004;13300624;200;1
+r;338287848;224004;13300663;200;1
+r;340816153;224004;13429484;200;1
+r;324133971;224004;12665022;200;2
+r;324133281;224004;12664998;200;2
+r;324133777;224004;12665016;200;2
+r;324133825;224004;12665017;200;2
+r;324134002;224004;12665023;200;2
+r;325156320;224004;12691089;200;2
+r;326046111;224004;12710977;200;2
+r;326046833;224004;12710993;200;2
+r;326071013;224004;12711455;200;2
+r;326071849;224004;12711471;200;2
+r;326510248;224004;12720268;200;2
+r;327579389;224004;12769575;200;2
+r;329064731;224004;12812906;200;2
+r;329557379;224004;12864832;200;2
+r;333219675;224004;12979356;200;2
+r;343398145;224004;13547857;200;2
+r;343400356;224004;13547911;200;2
+r;343400569;224004;13547914;200;2
+r;343403483;224004;13547989;200;2
+r;345422504;224004;13628282;200;2
+r;346290670;224004;13644480;200;2
+r;347416484;224004;13683603;200;2
+r;352498121;224004;13991959;200;2
+r;352961295;224004;14002493;200;2
+r;355113622;224004;14051859;200;2
+r;356475661;224004;14093981;200;2
+r;358008960;224004;14130233;200;2
+r;359145994;224004;14153524;200;2
+r;360231500;224004;14172605;200;2
+r;367694804;224004;14474518;200;2
+r;366853880;224004;14462488;200;2
+r;374602927;224004;14733890;200;2
+r;374832009;224004;14744620;200;2
+r;374840723;224004;14744769;200;2
+r;375096823;224004;14755562;200;2
+r;403051950;224004;15684557;200;2
+r;410365497;224004;15788299;200;2
+r;410381788;224004;15788721;200;2
+r;424825301;224004;16172827;200;2
+r;425298154;224004;16182653;200;2
+r;426045689;224004;16242627;200;2
+r;433043203;224004;16391588;200;2
+r;326078837;224004;12711734;200;3
+r;327589903;224004;12769914;200;3
+r;329895300;224004;12882811;200;3
+r;345428120;224004;13628403;200;4
+r;354586149;224004;14036186;200;4
+r;364563159;224004;14326181;200;4
+r;367102458;224004;14466845;200;6
+r;326572319;224004;12721637;200;9
+r;326572399;224004;12721639;200;9
+r;390748887;224004;12921931;333;25
+r;394945501;224004;6950218;333;25
+r;391159805;224004;12921932;444;25
+r;73965015;224004;2983124;555;5585
+
+// les relations entrantes : r;rid;node1;node2;type;w 
+
+r;305200708;6401104;224004;0;1
+r;365866522;187499;224004;0;1
+r;366929860;14454082;224004;0;1
+r;399526385;2960354;224004;0;2
+r;434377025;16325392;224004;0;2
+r;419713337;15227099;224004;0;3
+r;419524182;16073826;224004;0;4
+r;419679700;15351976;224004;0;4
+r;419679704;15240555;224004;0;4
+r;419679708;15266627;224004;0;4
+r;419679712;15351978;224004;0;4
+r;419679716;15351980;224004;0;4
+r;419679719;15351977;224004;0;4
+r;419679723;15351973;224004;0;4
+r;419679727;15351975;224004;0;4
+r;419679731;15262689;224004;0;4
+r;419679735;15351974;224004;0;4
+r;419679739;15288610;224004;0;4
+r;419679743;15250304;224004;0;4
+r;419679747;15351984;224004;0;4
+r;419679751;15351982;224004;0;4
+r;419679755;15264009;224004;0;4
+r;419679764;15227730;224004;0;4
+r;419679773;15351981;224004;0;4
+r;395253744;15416605;224004;0;5
+r;274283933;10906507;224004;0;6
+r;264443309;10598935;224004;0;7
+r;95352814;3875375;224004;0;8
+r;419197999;3100529;224004;0;8
+r;54502005;2422515;224004;0;10
+r;247507093;10299151;224004;0;13
+r;10975941;240940;224004;0;21
+r;11518017;179085;224004;0;21
+r;109033239;5521320;224004;0;22
+r;364332676;14317020;224004;0;25
+r;415595762;6950218;224004;0;25
+r;15259376;10576;224004;0;26
+r;18756081;599673;224004;0;26
+r;391043272;12921931;224004;0;28
+r;411313066;14530403;224004;0;51
+r;419926590;14731045;224004;0;51
+r;99104975;4344495;224004;0;56
+r;9859308;238238;224004;0;62
+r;1681016;154413;224004;0;80
+r;364329521;14316928;224004;0;215
+r;391043273;12921931;224004;5;25
+r;430644309;15240604;224004;6;10
+r;431111030;15266626;224004;6;10
+r;432288889;15240554;224004;6;10
+r;432427293;15416604;224004;6;10
+r;430541506;15580302;224004;6;20
+r;364332890;14317020;224004;6;25
+r;428852420;15416605;224004;6;25
+r;428852426;15227730;224004;6;25
+r;428852427;15351982;224004;6;25
+r;428852428;15264009;224004;6;25
+r;428852429;15351984;224004;6;25
+r;428852430;15250304;224004;6;25
+r;428852431;15351974;224004;6;25
+r;428852432;15288610;224004;6;25
+r;428852433;15262689;224004;6;25
+r;428852434;15351975;224004;6;25
+r;428852435;15351973;224004;6;25
+r;428852436;15351977;224004;6;25
+r;428852437;15351980;224004;6;25
+r;428852438;15351978;224004;6;25
+r;428852439;15266627;224004;6;25
+r;428852440;15240555;224004;6;25
+r;428852441;15351981;224004;6;25
+r;428852442;15351976;224004;6;25
+r;108358409;2960354;224004;6;31
+r;109033240;5521320;224004;6;31
+r;364329375;14316928;224004;6;34
+r;108358408;3100529;224004;6;37
+r;3213259;238238;224004;6;83
+r;430251296;101689;224004;8;1
+r;430252822;68439;224004;8;1
+r;430254177;116477;224004;8;1
+r;430316506;225916;224004;8;1
+r;430317449;234036;224004;8;1
+r;430317679;244620;224004;8;1
+r;430317899;24956;224004;8;1
+r;430321040;220013;224004;8;1
+r;430321043;61490;224004;8;1
+r;391339721;7053968;224004;8;25
+r;9966617;240940;224004;9;35
+r;10707304;179085;224004;9;35
+r;433394487;145953;224004;10;11
+r;433396205;74846;224004;10;11
+r;433396564;221019;224004;10;11
+r;433398626;228289;224004;10;11
+r;433400559;96211;224004;10;11
+r;433401159;34898;224004;10;11
+r;433401239;95422;224004;10;11
+r;433401420;139779;224004;10;11
+r;433401670;77008;224004;10;11
+r;433401863;225934;224004;10;11
+r;433402024;213977;224004;10;11
+r;433402164;240720;224004;10;11
+r;433402332;16110;224004;10;11
+r;433403470;77424;224004;10;11
+r;433403815;107477;224004;10;11
+r;433404505;140715;224004;10;11
+r;433404705;26363;224004;10;11
+r;433404860;81934;224004;10;11
+r;433405995;142086;224004;10;11
+r;433406270;144846;224004;10;11
+r;433406565;50869;224004;10;11
+r;433406826;51126;224004;10;11
+r;28720910;258097;224004;13;30
+r;69025808;126824;224004;13;30
+r;3134942;158081;224004;13;51
+r;11558517;327195;224004;13;51
+r;72629122;37151;224004;13;51
+r;12057235;195060;224004;13;91
+r;12141812;328779;224004;13;91
+r;78815202;224004;224004;19;31
+r;119777098;599673;224004;19;35
+r;1883766;236513;224004;22;32
+r;15124644;10576;224004;27;22
+r;9281132;323670;224004;56;26
+r;105136029;101155;224004;60;35
+r;390971171;12921931;224004;72;25
+r;385458298;238238;224004;130;25
+r;387616858;3100529;224004;130;25
+r;387759470;2960354;224004;130;25
+r;389502839;14316928;224004;130;25
+r;237036966;103664;224004;150;25
+r;218399411;15099;224004;150;45
+r;390130050;12921931;224004;333;25
+r;394945502;6950218;224004;333;25
+r;3212901;238238;224004;666;1
+r;9367570;166203;224004;666;1
+r;1803192;230808;224004;666;2
+r;118919825;6066367;224004;777;10
+r;329832293;12881916;224004;777;10
+
+// END
+</code>

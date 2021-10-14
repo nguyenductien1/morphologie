@@ -1,0 +1,130 @@
+<code>
+// DUMP pour le terme 'aiglette' (eid=2521502)
+
+<def>
+<br>
+(Héraldique) Petit aiglon qu'on représente avec les ailes étendues et sans bec ni pieds.<br> 
+ L'aiglette est le nom donné à l'aigle héraldique lorsqu'elle figure en plus de deux exemplaires dans le même écu.    
+ (Musée de la monnaie (France), Bibliothèque nationale de France Bibliothèque nationale (France). Département des médailles et antiques, Société française de numismatique, Le Bestiaire des monnaies, des sceaux, et des médailles, 1974)  
+</br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;2521502;'aiglette';1;0
+e;141683;'petite';1;1318
+e;83792;'blason';1;98
+e;143765;'beaux-arts';1;276
+e;334497;'aigle héraldique';1;50
+e;11213;'Aigle';1;50
+e;1816;'héraldique';1;100
+e;87987;'France';1;3144
+e;144172;'aigle';1;556
+e;239128;'_COM';36;50
+e;2586628;'Gender:Fem';4;0
+e;146881;'Nom:Fem+SG';4;50
+e;2586629;'Number:Sing';4;0
+e;171870;'Nom:';4;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;223172;'_POL-NEG';36;50
+e;254878;'_POL-NEG_PC';36;50
+e;15991432;'_ANIME-NO';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;276096;'_INFO-WIKI-YES';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;251716;'_INFO-MONOSEMIC';36;50
+e;223173;'_POL-POS';36;50
+e;254876;'_POL-POS_PC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;4132537;'dbnary:fra:__ws_1_aiglette__nom__1';444;0
+e;3418436;'bn:00029367n';444;0
+e;3228593;'wiki:@';444;0
+e;2414958;'Aiglemont';1;0
+e;2447523;'Aiglun';1;2
+e;97028;'gueules';1;50
+e;23165;'Isabey';1;50
+e;77735;'Europe';1;916
+e;139698;'empire';1;304
+e;11668;'Empire';1;120
+e;15026103;'aiglettes';1;0
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;15;'r_lieu';'chose&gt;lieu';Il est demandé d'énumérer les LIEUX typiques où peut se trouver le terme/objet en question. (carotte r_lieu potager)
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;28;'r_lieu-1';'lieu&gt;chose';A partir d'un lieu, il est demandé d'énumérer ce qui peut typiquement s'y trouver. Par exemple : Paris r_lieu-1 tour Eiffel
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+
+r;417816114;2521502;141683;0;17
+r;417816115;2521502;83792;0;17
+r;417816113;2521502;143765;0;25
+r;100038822;2521502;334497;0;27
+r;91980282;2521502;11213;0;34
+r;61288241;2521502;1816;0;38
+r;89053814;2521502;87987;0;42
+r;91980283;2521502;144172;0;48
+r;52867980;2521502;239128;0;1000000
+r;417816112;2521502;143765;3;25
+r;61261236;2521502;1816;3;37
+r;60133470;2521502;87987;3;39
+r;417816110;2521502;2586628;4;25
+r;427980727;2521502;146881;4;25
+r;427993036;2521502;2586629;4;25
+r;52386938;2521502;171870;4;45
+r;71241297;2521502;87987;15;37
+r;90216113;2521502;3576104;18;26
+r;89295044;2521502;3575927;18;30
+r;71241299;2521502;223172;36;17
+r;71241304;2521502;254878;36;20
+r;417816111;2521502;15991432;36;25
+r;71241301;2521502;241794;36;28
+r;281349107;2521502;276096;36;30
+r;71241303;2521502;254877;36;32
+r;96177579;2521502;251716;36;32
+r;71241300;2521502;223173;36;42
+r;71241302;2521502;254876;36;48
+r;71241298;2521502;2585997;36;61
+r;94495767;2521502;4132537;444;1
+r;91726015;2521502;3418436;444;26
+r;78231058;2521502;3228593;444;28
+r;71241403;2521502;2414958;777;10
+r;71241401;2521502;2447523;777;10
+r;71241399;2521502;97028;777;10
+r;71241398;2521502;23165;777;10
+r;71241397;2521502;77735;777;10
+r;71241396;2521502;139698;777;10
+r;71241395;2521502;11668;777;10
+r;71241394;2521502;11213;777;10
+
+// les relations entrantes : r;rid;node1;node2;type;w 
+
+r;191853146;87987;2521502;0;11
+r;61288240;1816;2521502;0;22
+r;392495307;15026103;2521502;0;25
+r;91980280;11213;2521502;0;29
+r;91980281;144172;2521502;0;30
+r;100038824;334497;2521502;0;32
+r;191853145;87987;2521502;27;11
+r;61288239;1816;2521502;27;24
+r;71486700;87987;2521502;28;29
+
+// END
+</code>

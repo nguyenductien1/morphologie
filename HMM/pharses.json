@@ -1,0 +1,10 @@
+{
+    "data":[
+
+        [{"le":"det"},{"docker":"nom"},{"ferme":"adj"},{"la":"pro"},{"porte":"vb"}],
+        [{"le":"det"},{"gardien":"nom"},{"ferme":"vb"},{"la":"det"},{"porte":"nom"}],
+        [{"le":"det"},{"docker":"nom"},{"porte":"vb"},{"le":"det"},{"gardien":"nom"}],
+        [{"le":"det"},{"gardien":"nom"},{"la":"det"},{"porte":"vb"}]
+
+    ]
+}

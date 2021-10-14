@@ -1,0 +1,54 @@
+<html>
+
+<head>
+    <header>
+        check
+    </header>
+</head>
+
+<body>
+    <div id="entre">
+        <input type="text" id="s1" placeholder="Nhap S1">
+        <input type="text" id="s2" placeholder="Nhap S2">
+        <button type="button" id="calculated" onclick="calculer()">Calculer</button>
+
+    </div>
+    <div id="#print">
+
+    </div>
+    <script type="text/javascript">
+        function total_chiffre(s){
+            s_split = s.split("",s.length);
+            total = 0
+            for (i = 0; i<s_split.length; i++){
+                total = total + parseInt(s_split[i]);
+            }
+            return total;
+        }
+        
+        function calculer(s1 = document.getElementById('s1').value, s2 =document.getElementById('s2').value) {
+            
+            total_s1 = parseInt(s1) + total_chiffre(s1);
+            total_s2 = parseInt(s2) + total_chiffre(s2);
+            if (total_s1 == total_s2){
+                alert("Jointure ici: " + total_s1);
+                return
+            }
+            else{
+                s1 = total_s1.toString();
+                s2 = total_s2.toString();
+                calculer(s1, s2);
+            }
+            
+
+        }
+
+
+
+
+
+
+    </script>
+</body>
+
+</html>

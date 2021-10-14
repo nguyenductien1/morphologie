@@ -1,0 +1,538 @@
+e;224004;'candidate';1;102
+e;101689;'être animé';1;50
+e;68439;'individu';1;6030
+e;116477;'personne';1;10218
+e;225916;'personne&gt;24956';1;708;'personne&gt;être humain'
+e;234036;'être vivant&gt;123933';1;258;'être vivant&gt;entité'
+e;244620;'être humain&gt;74860';1;146;'être humain&gt;homme'
+e;24956;'être humain';1;814
+e;220013;'femme&gt;4333487';1;758;'femme&gt;être humain de sexe féminin'
+e;61490;'femme';1;30496
+e;240940;'Lutte Ouvrière';1;4
+e;9111691;'en:accurate (qualifier)';1;0
+e;6876520;'en:adversity';1;0
+e;6876772;'en:aliquot';1;0
+e;6876774;'en:amenable';1;0
+e;6876526;'en:apoptotic index';1;0
+e;9111692;'en:arousal';1;0
+e;9111693;'en:auditory pitch';1;0
+e;6876532;'en:biological profile';1;0
+e;9111694;'en:biological radiation resistance';1;0
+e;6876780;'en:blur';1;0
+e;6876536;'en:capability';1;0
+e;6876538;'en:case sensitive';1;0
+e;6876540;'en:cell cycle profile';1;0
+e;6876542;'en:chance';1;0
+e;6876544;'en:chemical properties';1;0
+e;6876545;'en:class';1;0
+e;6876792;'en:clockwise';1;0
+e;6876549;'en:closure';1;0
+e;9111715;'en:competence';1;0
+e;6876553;'en:computer configuration';1;0
+e;6876555;'en:condition attribute';1;0
+e;9064828;'en:conflict (psychology)';1;0
+e;6876557;'en:conjunction';1;0
+e;6876559;'en:consensus';1;0
+e;6876561;'en:conservation';1;0
+e;6876563;'en:contamination';1;0
+e;6876565;'en:copy number';1;0
+e;6876814;'en:counterclockwise';1;0
+e;6876569;'en:cultural competency';1;0
+e;6876818;'en:decimal place';1;0
+e;6876820;'en:dependency';1;0
+e;6876822;'en:deriving';1;0
+e;6876824;'en:detectable';1;0
+e;9065656;'en:diameter (qualifier value)';1;0
+e;9111695;'en:dimensions';1;0
+e;13462734;'en:discordance';1;0
+e;8845283;'en:disease susceptibility';1;0
+e;6876587;'en:distance';1;0
+e;9110885;'en:does not conform';1;0
+e;6876832;'en:due to';1;0
+e;12923192;'en:effectiveness (finding)';1;0
+e;6876593;'en:effect';1;0
+e;6876597;'en:ejection fraction, quantitative';1;0
+e;9111717;'en:eligibility criteria met by subject';1;0
+e;6876840;'en:endurance';1;0
+e;8847281;'en:equal';1;0
+e;9111719;'en:exist';1;0
+e;6876605;'en:fahrenheit scale';1;0
+e;9111720;'en:flavor perception';1;0
+e;6876609;'en:font';1;0
+e;6876850;'en:format';1;0
+e;13257453;'en:function (attribute)';1;0
+e;9111721;'en:gauge (thickness dimension)';1;0
+e;9111722;'en:genetic pedigree';1;0
+e;9111723;'en:geometric radius';1;0
+e;6876617;'en:gradient';1;0
+e;6876858;'en:grouping';1;0
+e;6876860;'en:heterogeneity';1;0
+e;6876621;'en:homogeneity';1;0
+e;6876623;'en:housing humidity';1;0
+e;6876625;'en:hybrid';1;0
+e;6876627;'en:importance weight';1;0
+e;6876866;'en:improvement';1;0
+e;6876631;'en:independence';1;0
+e;6821864;'en:induration';1;0
+e;6876869;'en:inequality';1;0
+e;8847284;'en:intimate (qualifier value)';1;0
+e;6876873;'en:invaded';1;0
+e;6876875;'en:isolation';1;0
+e;6876643;'en:latitude';1;0
+e;6876881;'en:location';1;0
+e;7032194;'en:longevity';1;0
+e;6875494;'en:long';1;0
+e;9111727;'en:mark - attribute';1;0
+e;6876653;'en:match';1;0
+e;6850771;'en:measurement';1;0
+e;6876887;'en:medium growth rate';1;0
+e;6876889;'en:mitotic count';1;0
+e;9111702;'en:mood (attribute)';1;0
+e;6876893;'en:nanoparticle chemical composition';1;0
+e;6876895;'en:nonpyrogenic';1;0
+e;6876897;'en:not meeting criteria';1;0
+e;6876665;'en:notable';1;0
+e;9111703;'en:numerical value';1;0
+e;6876899;'en:object attribute';1;0
+e;6875506;'en:opacity';1;0
+e;9111729;'en:orientation (spatial)';1;0
+e;6876671;'en:perceived social support/conflict';1;0
+e;9111705;'en:perimeter topographical modifier';1;0
+e;6876677;'en:physical marking';1;0
+e;13462735;'en:physical properties';1;0
+e;9111706;'en:physiologic warmth';1;0
+e;9111707;'en:ploidies';1;0
+e;9111730;'en:polyclonality';1;0
+e;6876916;'en:polynomial degree';1;0
+e;9104765;'en:positioning attribute';1;0
+e;9111732;'en:primary language spoken';1;0
+e;6876922;'en:probability';1;0
+e;6876924;'en:proliferative index';1;0
+e;6876926;'en:property of relationship';1;0
+e;6876928;'en:proximity';1;0
+e;6876930;'en:pyrogenic';1;0
+e;6876932;'en:quality';1;0
+e;6876936;'en:rank';1;0
+e;13462737;'en:read depth';1;0
+e;6876940;'en:receiver operator characteristics';1;0
+e;6876942;'en:recombination fraction';1;0
+e;6904090;'en:regional';1;0
+e;6876946;'en:relevance';1;0
+e;6876948;'en:reproducibility';1;0
+e;6876950;'en:restart';1;0
+e;6876952;'en:s-phase fraction';1;0
+e;10041507;'en:salty';1;0
+e;6876719;'en:score';1;0
+e;6876955;'en:sequence similarity';1;0
+e;6876957;'en:sex distribution';1;0
+e;6876959;'en:similarity';1;0
+e;6876961;'en:slow growing';1;0
+e;10041511;'en:sour';1;0
+e;6876729;'en:spatial design';1;0
+e;6876967;'en:state';1;0
+e;6876969;'en:status';1;0
+e;6876737;'en:style';1;0
+e;13462739;'en:sufficiently defined concept definition status (core metadata concept)';1;0
+e;6876741;'en:time-of-flight';1;0
+e;6876743;'en:treatment effectiveness';1;0
+e;13462741;'en:umami';1;0
+e;6876977;'en:undetectable';1;0
+e;9111714;'en:unification process';1;0
+e;7469746;'en:universal';1;0
+e;7606250;'en:urgent';1;0
+e;6876751;'en:use';1;0
+e;6876985;'en:very fast growing';1;0
+e;6876757;'en:weak';1;0
+e;9111737;'en:with laterality';1;0
+e;6876767;'en:abundance';1;0
+e;6876769;'en:achiral';1;0
+e;6876522;'en:alignment';1;0
+e;6876524;'en:ambiguity';1;0
+e;6850793;'en:angle';1;0
+e;6876776;'en:area';1;0
+e;6876778;'en:asymmetry';1;0
+e;13204619;'en:aversion';1;0
+e;13462743;'en:biological properties';1;0
+e;10041505;'en:bitter';1;0
+e;6876534;'en:burden';1;0
+e;6876784;'en:cardinality';1;0
+e;6876786;'en:causing';1;0
+e;6876788;'en:cell lineage';1;0
+e;8857683;'en:characteristics';1;0
+e;6850795;'en:circumference';1;0
+e;6876547;'en:clock speed';1;0
+e;6876794;'en:clonality';1;0
+e;6876796;'en:compatible';1;0
+e;6876798;'en:composition';1;0
+e;13462745;'en:concordance';1;0
+e;6876800;'en:condition';1;0
+e;6876802;'en:conformance';1;0
+e;6876804;'en:connectivity';1;0
+e;6876806;'en:consequence';1;0
+e;6876808;'en:consistency';1;0
+e;6876810;'en:convenient';1;0
+e;6876812;'en:correlation';1;0
+e;6876567;'en:count';1;0
+e;6876816;'en:cutoff';1;0
+e;9111716;'en:demography';1;0
+e;6876575;'en:derivation';1;0
+e;6876577;'en:dermatologic';1;0
+e;6876579;'en:device induced';1;0
+e;6876581;'en:diaphoretic';1;0
+e;6876828;'en:disagreement';1;0
+e;9104762;'en:disease classification level';1;0
+e;6823304;'en:disruption';1;0
+e;6876830;'en:dna index';1;0
+e;9109521;'en:dosage';1;0
+e;6876834;'en:effect, appearance';1;0
+e;8847288;'en:effectiveness';1;0
+e;6876836;'en:ejection fraction, qualitative';1;0
+e;6876838;'en:elevation';1;0
+e;6876599;'en:eligible';1;0
+e;6876601;'en:epimeric';1;0
+e;9111696;'en:exception - responselevel';1;0
+e;6876844;'en:exposure';1;0
+e;6876846;'en:fast growing';1;0
+e;6876848;'en:focality';1;0
+e;6876611;'en:formation';1;0
+e;9052371;'en:frequencies (time pattern)';1;0
+e;9111697;'en:functional disorder';1;0
+e;6876854;'en:gene-modified';1;0
+e;6876615;'en:geographic distribution';1;0
+e;6876856;'en:grade';1;0
+e;12923559;'en:granularity';1;0
+e;6876619;'en:health';1;0
+e;7438483;'en:hl7 data type';1;0
+e;9111724;'en:homology (attribute)';1;0
+e;6876864;'en:human origin';1;0
+e;9111725;'en:impaired';1;0
+e;9111726;'en:imprisonment (finding)';1;0
+e;6876629;'en:in-house';1;0
+e;9111698;'en:inductive resistance';1;0
+e;6876633;'en:ineligibility';1;0
+e;6876635;'en:influence';1;0
+e;7365229;'en:intrinsic origin';1;0
+e;8847285;'en:involvement with';1;0
+e;9111699;'en:justification of text';1;0
+e;6876879;'en:less than';1;0
+e;6876647;'en:logical condition';1;0
+e;6876649;'en:longitude';1;0
+e;6876883;'en:magnitude';1;0
+e;9111700;'en:mass, a measure of quantity of matter';1;0
+e;6876885;'en:measurable';1;0
+e;6876655;'en:medical device attribute';1;0
+e;6876657;'en:meso compound';1;0
+e;6876659;'en:modal chromosome number';1;0
+e;6876661;'en:multiplicity';1;0
+e;6876663;'en:nerve proximity';1;0
+e;13462746;'en:not allowed to collect';1;0
+e;7995454;'en:not performed';1;0
+e;9111728;'en:numbers';1;0
+e;7014389;'en:nutrition, calories';1;0
+e;6876901;'en:occupancy';1;0
+e;9111704;'en:order (arrangement)';1;0
+e;6876669;'en:pain attribute';1;0
+e;6876907;'en:performed';1;0
+e;6876909;'en:perpendicular';1;0
+e;6876911;'en:physical phenomenon or property';1;0
+e;6876679;'en:physical strength';1;0
+e;6876681;'en:placement';1;0
+e;9111708;'en:point of interception';1;0
+e;6876683;'en:polymorphism';1;0
+e;6876918;'en:portion or totality';1;0
+e;6876920;'en:possess';1;0
+e;6876687;'en:privacy';1;0
+e;6876689;'en:productivity';1;0
+e;8857684;'en:property (attribute)';1;0
+e;6876693;'en:proportion';1;0
+e;6876695;'en:psa level';1;0
+e;8845591;'en:qualifier (concept)';1;0
+e;6876699;'en:quantity';1;0
+e;6876938;'en:reaction';1;0
+e;6876705;'en:readiness';1;0
+e;6876707;'en:reciprocal';1;0
+e;6876709;'en:redundancy';1;0
+e;6876711;'en:relative value';1;0
+e;6876713;'en:reportable event';1;0
+e;9111734;'en:resolution property';1;0
+e;6876717;'en:rna integrity number';1;0
+e;6806208;'en:safety';1;0
+e;9111709;'en:scheduled - procedure status';1;0
+e;9111710;'en:secondary language spoken';1;0
+e;8847535;'en:severities';1;0
+e;6876723;'en:significance level';1;0
+e;6876725;'en:size';1;0
+e;6876727;'en:smooth';1;0
+e;9111735;'en:space - property';1;0
+e;6876731;'en:stability';1;0
+e;6876733;'en:statistical frequency';1;0
+e;6876735;'en:strong';1;0
+e;9111712;'en:sub-visible particulates';1;0
+e;6876739;'en:syntax';1;0
+e;6876973;'en:tissue/specimen availability';1;0
+e;9104767;'en:type - attribute';1;0
+e;6876745;'en:uncharged';1;0
+e;6876747;'en:unexplained';1;0
+e;6876749;'en:unit of measure';1;0
+e;6876981;'en:unusable';1;0
+e;6876983;'en:useful';1;0
+e;9111736;'en:variable, characteristic, factor';1;0
+e;6876755;'en:very slow growing';1;0
+e;9104770;'en:with configuration';1;0
+e;6876988;'en:zone';1;0
+e;6950218;'en:applicant';1;0
+e;12921931;'en:candidate';1;0
+e;70283;'travail';1;4574
+e;10576;'politique';1;4466
+e;3100529;'Nelly Valade';777;0
+e;236513;'candidater';1;64
+e;101155;'candidat';1;384
+e;179085;'LO';1;2
+e;238238;'Eva Joly';666;20
+e;239128;'_COM';36;50
+e;14298523;'candidate&gt;171869';1;0;'candidate&gt;Adj:'
+e;14292261;'candidate&gt;2946892';1;0;'candidate&gt;Ver:Conjug'
+e;14292262;'candidate&gt;171870';1;0;'candidate&gt;Nom:'
+e;14270798;'VerbalMode:Impératif';4;0
+e;14270847;'Ver:ImPre+SG+P2';4;0
+e;14270944;'VerbalPers:P3';4;0
+e;14270943;'VerbalPers:P2';4;0
+e;14270942;'VerbalPers:P1';4;0
+e;14270945;'VerbalNumber:SG';4;0
+e;150120;'Ver:SPre+SG+P3';4;50
+e;150119;'Ver:SPre+SG+P1';4;50
+e;150118;'Ver:IPre+SG+P3';4;50
+e;150117;'Ver:IPre+SG+P1';4;50
+e;3093591;'VerbalMode:Subjonctif';4;0
+e;171869;'Adj:';4;50
+e;3093590;'VerbalMode:Indicatif';4;0
+e;2935005;'VerbalTime:Present';4;0
+e;161698;'Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2';4;50
+e;212235;'Ver:';4;50
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;2946892;'Ver:Conjug';4;0
+e;146881;'Nom:Fem+SG';4;50
+e;171870;'Nom:';4;50
+e;7053968;'en:conceptual entity';1;0
+e;15351976;'candidate au bac';1;0
+e;15351981;'candidate à un poste';1;0
+e;15240555;'candidate au baccalauréat';1;0
+e;15266627;'candidate aux primaires PS';1;0
+e;15351978;'candidate de droite';1;0
+e;15351980;'candidate de gauche';1;0
+e;15351977;'candidate en lice';1;0
+e;15351973;'candidate membre';1;0
+e;15351975;'candidate officielle';1;0
+e;15262689;'candidate retenue';1;0
+e;15288610;'candidate à l'embauche';1;0
+e;15351974;'candidate sortante';1;0
+e;15250304;'candidate à l'immigration';1;0
+e;15351984;'candidate à la députation';1;0
+e;15264009;'candidate à la primaire démocrate';1;0
+e;15351982;'candidate à la primaire';1;0
+e;15227730;'candidate à la primaire socialiste';1;0
+e;15416605;'candidate à un jeu';1;0
+e;15102466;'en:write-in candidate';1;0
+e;15101593;'en:favorite son';1;0
+e;15060966;'en:stalking-horse';1;0
+e;5521320;'candidate de téléréalité';1;0
+e;14317020;'candidate EE-LV';1;12
+e;51126;'cheveux';1;3106
+e;50869;'seins';1;644
+e;144846;'tête';1;5684
+e;142086;'jambe';1;3332
+e;81934;'main';1;6658
+e;26363;'bras';1;3760
+e;140715;'jambes';1;794
+e;107477;'nez';1;2603
+e;77424;'oeil';1;3212
+e;16110;'bouche';1;4300
+e;240720;'squelette&gt;112609';1;148;'squelette&gt;anatomie'
+e;213977;'bassin&gt;112609';1;18;'bassin&gt;anatomie'
+e;225934;'oeil&gt;330323';1;202;'oeil&gt;organe de la vue'
+e;77008;'yeux';1;4150
+e;139779;'ADN';1;716
+e;95422;'cou';1;1058
+e;34898;'pied';1;4290
+e;96211;'coeur';1;2308
+e;228289;'sexe&gt;218086';1;270;'sexe&gt;organe sexuel'
+e;221019;'bouche&gt;112609';1;208;'bouche&gt;anatomie'
+e;74846;'corps';1;4798
+e;145953;'visage';1;2480
+e;6401104;'candidate avortement';1;0
+e;14454082;'personne publique candidate';1;0
+e;16325392;'candidate à la présidence';1;0
+e;15227099;'clef candidate';1;0
+e;16073826;'Personne publique candidate';1;0
+e;10906507;'candidate pour l'accueil des Jeux olympiques d'été de 1968';777;0
+e;10598935;'candidate pour l'organisation des Jeux olympiques d'été de 2004';777;0
+e;3875375;'présidente-candidate';1;0
+e;10299151;'La candidate';777;0
+e;2422515;'clé candidate';1;0
+e;4344495;'ville candidate';1;0
+e;151553;'_FL:0';6;50
+e;152836;'_FL:24';6;50
+e;1384;'vivant';1;766
+e;7332979;'Langue:anglais';18;50
+e;14916413;'Langue:français';18;50
+e;3576104;'Morpho:nospace';18;50
+e;3575927;'Morpho:min';18;50
+e;2442;'vivre';1;2378
+e;251694;'mourir&gt;126720';1;232;'mourir&gt;cesser de vivre'
+e;140318;'parler';1;4062
+e;259820;'vivre&gt;160251';1;74;'vivre&gt;être en vie'
+e;43601;'se reproduire';1;496
+e;43253;'dormir';1;6518
+e;124600;'mourir';1;2016
+e;328779;'::&gt;14:27268&gt;29:69379';8;50;'rater [objet] examen'
+e;258097;'faire un hors-sujet';1;50
+e;126824;'être recalé';1;84
+e;37151;'mélanger';1;658
+e;195060;'::&gt;14:27268&gt;29:69379&gt;13';9;50;'Qui pourrait rater un examen ?'
+e;327195;'::&gt;14:27268&gt;29:103230';8;50;'louper [objet] examen'
+e;158081;'::&gt;14:27268&gt;29:103230&gt;13';9;50;'Qui pourrait louper un examen ?'
+e;103405;'indifférence';1;610
+e;14330;'satisfaction';1;614
+e;254878;'_POL-NEG_PC';36;50
+e;162761;'_INFO-SEM-PERS';36;732
+e;250117;'_INFO-SEM-PERS-FEM';36;50
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;273221;'_INFO-WIKI-NO';36;50
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;223172;'_POL-NEG';36;50
+e;254876;'_POL-POS_PC';36;50
+e;2585997;'_INFO-CNRTL-NO';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;223173;'_POL-POS';36;50
+e;323670;'femme politique française';1;24
+e;2960354;'Laly';1;0
+e;14316928;'Clothilde Ollier';1;0
+e;14976056;':r10707304';10;0
+e;14976057;':r9966617';10;0
+e;16445395;':r433400559';10;0
+e;16445994;':r433401159';10;0
+e;16446074;':r433401239';10;0
+e;16446255;':r433401420';10;0
+e;16446505;':r433401670';10;0
+e;16446698;':r433401863';10;0
+e;16446859;':r433402024';10;0
+e;16446999;':r433402164';10;0
+e;16447167;':r433402332';10;0
+e;16448305;':r433403470';10;0
+e;16448650;':r433403815';10;0
+e;16449339;':r433404505';10;0
+e;16449539;':r433404705';10;0
+e;16449694;':r433404860';10;0
+e;16450828;':r433405995';10;0
+e;16451103;':r433406270';10;0
+e;16451398;':r433406565';10;0
+e;16451659;':r433406826';10;0
+e;12663448;'b26148a0040efe3f672c8cf6e053450c';200;0
+e;12669036;'e45ce3cbf2347f8ad134b741aa84025c';200;0
+e;12669038;'9db492c4f98934409d02ae5727968e83';200;0
+e;12670800;'14d3c2134c6bdb74c188d8b4f6c6f07e';200;0
+e;12670807;'8a6edb4fdcf4914b7cd2a5f1ab812ade';200;0
+e;12679529;'a2d40d8957213493c0a84b25b3c14bd2';200;0
+e;12679557;'8ce42dd3915892483f8d549ea9992a6c';200;0
+e;12679934;'06b2bf57ce15421dcaf6847f07644c7b';200;0
+e;12697343;'34fb05f56f09a36ba81941ebf942b537';200;0
+e;12701950;'ce910e82858c332a59c9e6a8f2814bd4';200;0
+e;12709187;'1b8a1990f5e9bc3889b2744188a7e238';200;0
+e;12710846;'c48c1fb1ee3f02c714a833cdb0b6576b';200;0
+e;12711540;'5c202c1d70e0cd56a39df56bb2cd9c22';200;0
+e;12715923;'757dfb99801d2a3c322d9b340d7f693d';200;0
+e;12718181;'18b733b762fc4b3d353723a360345ea9';200;0
+e;12722889;'81704ba86620dfc489c4fbfdb7988125';200;0
+e;12726701;'f7d015c30c82e748fb1f303160e6d284';200;0
+e;12730729;'8f37a48191db8c3b5ceda8047be0d635';200;0
+e;12763704;'e12603b66d3f6ff4a5effe9993da3223';200;0
+e;12772166;'dd7b8ae0dd851659630782f31d297ff2';200;0
+e;12784444;'8cc50045b89d9875c94753b6bb2dbe94';200;0
+e;12784452;'716a86301de40f86acdda3edd780b8bc';200;0
+e;12864540;'8b03c27c4c502056fb1f7ce2c8537030';200;0
+e;12904131;'4d982b163b79d7cfb2915fb5ec9cdaf8';200;0
+e;12984630;'e223d7d7440eec698f3ea56417d8842f';200;0
+e;12984681;'99a2f61f503950bd1411e8f2a401954c';200;0
+e;12984750;'816f240d6ba9c2390cb7d2030c54d3f7';200;0
+e;12990243;'8462dc4eb237c1028f2286a30174465a';200;0
+e;12995269;'e59e9c25bd2db6cf006195856bfdad15';200;0
+e;12995296;'e6d8ef99b876d7d6c8cb9a21416bb977';200;0
+e;12995356;'472c71b4799826c051c1891984aed60b';200;0
+e;12995378;'60ae924bfae00425b30bf8700a86e580';200;0
+e;13100746;'6887dedf4e08ca28b25f92c87d0a9c4d';200;0
+e;13299891;'e0458dfd6fc4da7498d22837562b0770';200;0
+e;13300024;'229a77c1836329157b372f14e7cb67ce';200;0
+e;13300624;'b5ca14302411bfae0890a858fbfff58e';200;0
+e;13300663;'7a3d26adcd6d7b50a4e464ce5f0d5ac1';200;0
+e;13429484;'b10257f9959a8c4cb0d2dc3ff7c11ab0';200;0
+e;12665022;'2097e6b7979cb71a607ee4bdfc3d76da';200;0
+e;12664998;'9407203968fc8468fcaf6188e5a95f69';200;0
+e;12665016;'7c810c5db90b20e50300edce6a94d2bc';200;0
+e;12665017;'cd71d709f86345a1b83fbe303807820f';200;0
+e;12665023;'fc9b58ee832676bebad3210ac31bfaef';200;0
+e;12691089;'08ccf9a22b72b8b820204c4a47e29aa4';200;0
+e;12710977;'0d0a178667f5fc6f6e19e9a45b7ded0b';200;0
+e;12710993;'f3522d192fd6ff53915d1cc7ae170930';200;0
+e;12711455;'18b84fa94377ccef822ccbba0fbaa1ef';200;0
+e;12711471;'ba41c52fdc26568fea4f4826cfebd85d';200;0
+e;12720268;'f326b34cfd537328341dba7ced08c312';200;0
+e;12769575;'ebf37eb0135e9757060d21755e2726cc';200;0
+e;12812906;'9b4c56d516e5d0f49e1779a416b29989';200;0
+e;12864832;'2ec9f567997da522cc91c3ac9e7c2494';200;0
+e;12979356;'1ed6129c453a1369a9b9da18d54c0768';200;0
+e;13547857;'24d2a3badbbb3922a124fbb46dc97a97';200;0
+e;13547911;'98b90dc85be561b8c1985bc7e13c26ac';200;0
+e;13547914;'c86fa5af6366dd37dc7515ea45634a15';200;0
+e;13547989;'bd91473154723dcb8a483a42d1ffe1bb';200;0
+e;13628282;'cb7dbc71f6c5c666bac9677d5eea8a81';200;0
+e;13644480;'30778270b021aa4f52ef65877b474118';200;0
+e;13683603;'94ca78239f18752f19a1cb7d0a8e3ac3';200;0
+e;13991959;'b49d827e34e17b6cd11b2196fb7f1826';200;0
+e;14002493;'1767b71bae5817d5e961878383272079';200;0
+e;14051859;'1e6bf4aeca41938c445483395ace9b25';200;0
+e;14093981;'cbd2c1a63a7b0fd2618afac4aa2f5e8f';200;0
+e;14130233;'c5e981a1185f1aa1bb2703e1de749c03';200;0
+e;14153524;'e374f14e828bff67e836f4ecd1164a7b';200;0
+e;14172605;'e8b772f3e0722bbca1419b3fe895c540';200;0
+e;14474518;'771a98442cf10ced4047ab74392c1c96';200;0
+e;14462488;'0079e7d174654be263923b7efd1cb201';200;0
+e;14733890;'dd48439d38b8dbf152bb1fd9a9ed3975';200;0
+e;14744620;'6736759e126b6d53f3df8b7bfd8c28a9';200;0
+e;14744769;'08ca41122632253b01071c7943281ef3';200;0
+e;14755562;'2f753bdcef6ec530c9c77b42bafd1763';200;0
+e;15684557;'d3146536a00b4744a6749388866a667e';200;0
+e;15788299;'d22df75233a22e9128a7e686c317efe4';200;0
+e;15788721;'7796bba805c83a5a13e4a1f5631f35c4';200;0
+e;16172827;'2c2c261ac3570035e27f962d4a875aa4';200;0
+e;16182653;'59e87fc0c71b8fbd8ceaaf8071660eb7';200;0
+e;16242627;'d47966959d41687aa1bb352acb0db1a8';200;0
+e;16391588;'e2086d969a56fabb3a555a50c430d34d';200;0
+e;12711734;'c9c15df21925f8731a60cc0dd20145d6';200;0
+e;12769914;'ab3c484cc04a7673be6ddedc604b7039';200;0
+e;12882811;'c5f4b722733c134e04513780f0e4fe0d';200;0
+e;13628403;'f8a009105ee476a2825c693c3151cfa9';200;0
+e;14036186;'3718a66a7f19b74591e770c439c77b30';200;0
+e;14326181;'b7c7254a8995c31d947cf7ec42a1501c';200;0
+e;14466845;'2269c8c0871af95e427816e7c15ad655';200;0
+e;12721637;'91ce253ee17bbb94f919a0eb34809679';200;0
+e;12721639;'3a6bfbe8d08eb0b0ad4a59adfc60d2d7';200;0
+e;12921932;'umls:CL525069';444;0
+e;2983124;'_SW';36;50
+e;187499;'Corinne Lepage';1;20
+e;599673;'candidates';777;4
+e;14530403;'présenter sa candidature';1;20
+e;14731045;'SE-EELV';1;6
+e;154413;'Ségolène';1;58
+e;15240604;'en:candidate in contention';1;0
+e;15266626;'en:candidate for the PS primaries';1;0
+e;15240554;'en:candidate for the baccalaureate';1;0
+e;15416604;'candidat à un jeu';1;0
+e;15580302;'en:games contestant';1;0
+e;103664;'voter';1;540
+e;15099;'souhaiter';1;400
+e;166203;'Sarah Palin';1;50
+e;230808;'Sophie Favier';1;2
+e;6066367;'baie de Tokyo';777;0
+e;12881916;'Martine Brunschwig Graf';777;0
